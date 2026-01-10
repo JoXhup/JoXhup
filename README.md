@@ -1,18 +1,6 @@
 <!-- TEXTO ANIMADO AZUL -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=28&
-    duration=3000&
-    pause=1000&
-    color=1E90FF&
-    center=true&
-    vCenter=true&
-    width=500&
-    lines=¡Bienvenido+a+mi+perfil!;Que+tal+👋;Soy+JoXhu!"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hola+soy+JoXhu;Bienvenido+a+mi+perfil" alt="Typing SVG" />
 </p>
 
 ---
