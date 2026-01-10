@@ -21,7 +21,7 @@
 <table align="center">
   <tr>
     <td align="center" width="180">
-      <img src="https://github.com/JoXhu.png" width="150" style="border-radius: 12px;" />
+      <img src="https://github.com/JoXhup.png" width="150" style="border-radius: 12px;" />
     </td>
     <td>
 
