@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ██████████████████████ BANNER SUPREMO ██████████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dcff,40:712cf9,100:ff2d87&height=340&section=header&text=JoXhu&fontSize=170&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=ARQUITECTURA%20%E2%9A%A1%20CÓDIGO%20DE%20OTRO%20NIVEL&descSize=22&descAlignY=63" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dcff,40:712cf9,100:ff2d87&height=340&section=header&text=JoXhu&fontSize=170&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=DEVELOPER%20%E2%9A%A1%20CÓDIGO%20DE%20OTRO%20NIVEL&descSize=22&descAlignY=63" width="100%" />
 
 <br>
 
