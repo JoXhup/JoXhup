@@ -1,60 +1,76 @@
+
 <div align="center">
 
-<!-- ██████████████████████ BANNER SUPREMO ██████████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dcff,40:712cf9,100:ff2d87&height=340&section=header&text=JoXhu&fontSize=170&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=DEVELOPER%20%E2%9A%A1%20CÓDIGO%20DE%20OTRO%20NIVEL&descSize=22&descAlignY=63" width="100%" />
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     HEADER CINEMATOGRÁFICO                -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0221,60:120038,100:1a0050&height=300&section=header&text=JoXhu&fontSize=130&animation=twinkling&fontColor=c084fc&desc=SYSTEM%20ARCHITECT%20%2F%2F%20CODE%20AS%20PHILOSOPHY&descSize=18&descAlignY=68&fontAlignY=45&stroke=7c3aed&strokeWidth=2" width="100%" />
 
 <br>
 
-<!-- ESTADO EN VIVO -->
-![](https://img.shields.io/badge/⚡%20ESTADO-EN%20LÍNEA-00ff88?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🔥%20NIVEL-LEGENDARIO-ff2d87?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🛰%20ROL-ARQUITECTO-712cf9?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/💀%20MODO-BEAST-36BCF7?style=for-the-badge&labelColor=0d1117)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=3000&pause=500&color=7c3aed&center=true&vCenter=true&width=800&lines=%5B+SISTEMA+INICIADO+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+CARGANDO+ARSENAL+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+ARQUITECTO+EN+L%C3%8DNEA+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" />
 
 <br>
 
-<!-- ░░░░░░░░░░ DIVISOR GRADIENTE ░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00dcff,50:712cf9,100:ff2d87&height=3" width="100%" />
-
-<br><br>
-
-<!-- ██████████████████████ IDENTIDAD ██████████████████████ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%E2%9F%A8+IDENTIFICACI%C3%93N+DEL+SISTEMA+%E2%9F%A9" />
+![](https://img.shields.io/badge/▮_ESTADO-OPERATIVO-c084fc?style=flat-square&labelColor=0a0010&color=7c3aed)
+![](https://img.shields.io/badge/▮_ROL-ARQUITECTO_SUPREMO-c084fc?style=flat-square&labelColor=0a0010&color=5b21b6)
+![](https://img.shields.io/badge/▮_MODO-BEAST_MODE-c084fc?style=flat-square&labelColor=0a0010&color=4c1d95)
+![](https://img.shields.io/badge/▮_BASE-LATINOAMÉRICA-c084fc?style=flat-square&labelColor=0a0010&color=3b0764)
 
 <br>
 
-<table border="0">
+```
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+                              PROTOCOLO DE IDENTIFICACIÓN
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
+
+</div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" width="220">
+<td align="center" width="200" valign="top">
+<br>
 
-<img src="https://github.com/JoXhup.png" width="155" />
+<img src="https://github.com/JoXhup.png" width="140" />
 
 <br><br>
 
-![](https://img.shields.io/badge/-JoXhu-36BCF7?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+```
+╔════════════════╗
+║   J o X h u   ║
+╚════════════════╝
+```
 
-![](https://img.shields.io/github/followers/JoXhup?label=Seguidores&style=social)
+![](https://img.shields.io/github/followers/JoXhup?label=seguidores&style=social)
 
 </td>
-<td align="left" width="500">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=500&color=36BCF7&vCenter=true&multiline=true&width=460&height=115&lines=+const+JoXhu+%3D+%7B;++rol%3A+%22Arquitecto+Supremo%22%2C;++stack%3A+%5B%22Bots%22%2C+%22APIs%22%2C%22Full+Stack%22%5D%2C;++nivel%3A+%22LEGENDARIO+%F0%9F%94%A5%22%2C;+%7D%3B" />
-
-<br>
-
-> 🚀 **Convirtiendo ideas cabronas en sistemas que escalan.**
-> Construyo arquitecturas que no se rompen.
-> Bots, APIs brutas y webs de nivel dios.
+<td width="30"></td>
+<td align="left" width="520" valign="top">
 
 <br>
 
-| | |
-|---|---|
-| ⚡ **Especialidad** | `Bots · Backend · Diseño de Sistemas` |
-| 🧠 **Aprendiendo** | `Edge Computing · IA · DevOps` |
-| 🔥 **Disponible** | `Colaboraciones · Freelance` |
-| 🌎 **Base** | `Latinoamérica` |
+```typescript
+// ── ENTITY PROFILE ──────────────────────────────────────────────
+const JoXhu = {
+  alias      : "Arquitecto Supremo",
+  stack      : ["Bots", "APIs", "Full Stack", "Systems Design"],
+  filosofía  : "El código es arquitectura. La arquitectura es arte.",
+  modo       : "BEAST 🔥",
+  disponible : true,  // ← freelance & colabs abiertas
+
+  buildsWith  : {
+    langs     : ["TypeScript", "Python", "C++", "Java"],
+    frontend  : ["React", "Next.js", "Tailwind"],
+    backend   : ["Node.js", "Express", "Discord.js"],
+    infra     : ["Docker", "Cloudflare", "Linux"]
+  },
+
+  aprendiendo : ["Edge Computing", "IA", "DevOps avanzado"],
+  misión      : "Sistemas que no se rompen. Jamás."
+};
+```
 
 </td>
 </tr>
@@ -62,127 +78,126 @@
 
 <br>
 
-<!-- ░░░░░░░░░░ DIVISOR GRADIENTE ░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d87,50:712cf9,100:00dcff&height=3" width="100%" />
+<div align="center">
+
+```
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+                              MÉTRICAS DEL SISTEMA
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoXhup&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=c084fc&icon_color=7c3aed&text_color=9ca3af&bg_color=0a0010&border_radius=14&ring_color=7c3aed&include_all_commits=true&custom_title=RENDIMIENTO+EN+CAMPO" height="185" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoXhup&layout=compact&theme=transparent&hide_border=true&title_color=c084fc&text_color=9ca3af&bg_color=0a0010&border_radius=14&langs_count=8&custom_title=LENGUAJES+DOMINADOS" height="185" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=JoXhup&theme=transparent&hide_border=true&stroke=7c3aed&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=6b7280&background=0a0010&border_radius=14&dates=6b7280&sideNums=c084fc&currStreakNum=ffffff" width="680" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoXhup&theme=tokyo-night&hide_border=true&area=true&bg_color=0a0010&color=c084fc&line=7c3aed&point=a855f7&area_color=5b21b6" width="100%" />
+
+<br>
+
+```
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+                              ARSENAL TECNOLÓGICO
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
+
+</div>
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td align="center" width="280">
+
+```
+[ LENGUAJES ]
+```
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,html,css&theme=dark&perline=4" />
+
+</td>
+<td align="center" width="280">
+
+```
+[ FRONTEND ]
+```
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma,vite&theme=dark&perline=4" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+```
+[ BACKEND ]
+```
+<img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,mongodb,mysql,sqlite&theme=dark&perline=4" />
+
+</td>
+<td align="center">
+
+```
+[ INFRA ]
+```
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,cloudflare,vscode&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```
+[ DOMINIO TÉCNICO ]
+
+  TypeScript  ██████████████████░░  90%
+  Python      █████████████████░░░  85%
+  Node.js     ████████████████████  98%
+  React       ████████████████░░░░  80%
+  Docker      █████████████░░░░░░░  65%
+  DevOps      ████████████░░░░░░░░  60%
+```
+
+<br>
+
+```
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+                              SALÓN DE LA GLORIA
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=JoXhup&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=6" width="100%" />
+
+<br>
+
+```
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+                              FILOSOFÍA DE SISTEMA
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=4000&pause=2000&color=7c3aed&center=true&vCenter=true&width=760&lines=%22El+mejor+c%C3%B3digo+es+el+que+nunca+necesita+explicaci%C3%B3n.%22;%22La+arquitectura+no+es+estructura+%E2%80%94+es+filosof%C3%ADa.%22;%22No+escribo+c%C3%B3digo.+Construyo+infraestructura+del+futuro.%22;%22Cada+bug+eliminado+es+una+lecci%C3%B3n+grabada+en+silicio.%22;%22Domino+las+variables+para+definir+las+constantes.%22" />
+
+<br>
+
+```
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+                              ESTABLECER CONEXIÓN
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
+
+[![Discord](https://img.shields.io/badge/DISCORD-JoXhu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0010)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-JoXhup-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0010)](https://github.com/JoXhup)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JoXhup&color=7c3aed&style=flat-square&label=VISITAS+AL+PERFIL" />
 
 <br><br>
 
-<!-- ██████████████████████ MÉTRICAS ██████████████████████ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=712cf9&center=true&vCenter=true&width=700&lines=%E2%9F%A8+M%C3%89TRICAS+DE+RENDIMIENTO+%E2%9F%A9" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoXhup&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=712cf9&text_color=a9b1d6&bg_color=0d1117&border_radius=20&ring_color=ff2d87&include_all_commits=true" height="195" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoXhup&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=a9b1d6&bg_color=0d1117&border_radius=20&langs_count=8" height="195" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=JoXhup&theme=tokyonight&hide_border=true&stroke=712cf9&ring=36BCF7&fire=ff2d87&currStreakLabel=ffffff&sideLabels=a9b1d6&background=0d1117&border_radius=20&dates=a9b1d6" width="700" />
-
-<br>
-
-<!-- ░░░░░░░░░░ DIVISOR GRADIENTE ░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00dcff,50:712cf9,100:ff2d87&height=3" width="100%" />
-
-<br><br>
-
-<!-- ██████████████████████ ARSENAL ██████████████████████ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=ff2d87&center=true&vCenter=true&width=700&lines=%E2%9F%A8+ARSENAL+TECNOL%C3%93GICO+%E2%9F%A9" />
-
-<br>
-
-**`[ LENGUAJES & LÓGICA ]`**
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,html,css&theme=dark&perline=8" />
-
-<br><br>
-
-**`[ FRONTEND & UI ]`**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma,vite&theme=dark&perline=8" />
-
-<br><br>
-
-**`[ BACKEND & MOTOR ]`**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,mongodb,mysql,sqlite&theme=dark&perline=8" />
-
-<br><br>
-
-**`[ DEVOPS & HERRAMIENTAS ]`**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,cloudflare&theme=dark&perline=8" />
-
-<br>
-
-<!-- ░░░░░░░░░░ DIVISOR GRADIENTE ░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d87,50:712cf9,100:00dcff&height=3" width="100%" />
-
-<br><br>
-
-<!-- ██████████████████████ ACTIVIDAD ██████████████████████ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%E2%9F%A8+ACTIVIDAD+%26+COMMITS+%E2%9F%A9" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoXhup&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=36BCF7&line=712cf9&point=ff2d87&area_color=712cf9" width="100%" />
-
-<br>
-
-<!-- ░░░░░░░░░░ DIVISOR GRADIENTE ░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00dcff,50:712cf9,100:ff2d87&height=3" width="100%" />
-
-<br><br>
-
-<!-- ██████████████████████ TROFEOS ██████████████████████ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%E2%9F%A8+SAL%C3%93N+DE+LA+GLORIA+%E2%9F%A9" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoXhup&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=8" width="100%" />
-
-<br>
-
-<!-- ░░░░░░░░░░ DIVISOR GRADIENTE ░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d87,50:712cf9,100:00dcff&height=3" width="100%" />
-
-<br><br>
-
-<!-- ██████████████████████ FILOSOFÍA ██████████████████████ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=ff2d87&center=true&vCenter=true&width=700&lines=%E2%9F%A8+FILOSOF%C3%8DA+%E2%9F%A9" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2500&color=565f89&center=true&vCenter=true&width=750&lines=%22El+mejor+c%C3%B3digo+es+el+que+nunca+necesita+explicaci%C3%B3n.%22;%22Domino+las+variables+para+definir+las+constantes.%22;%22La+arquitectura+no+es+estructura+%E2%80%94+es+filosof%C3%ADa.%22;%22No+escribo+c%C3%B3digo.+Escribo+el+futuro.%22;%22Cada+bug+que+mato+me+hace+m%C3%A1s+fuerte.%22" />
-
-<br><br>
-
-<!-- ░░░░░░░░░░ DIVISOR GRADIENTE ░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00dcff,50:712cf9,100:ff2d87&height=3" width="100%" />
-
-<br><br>
-
-<!-- ██████████████████████ CONTACTO ██████████████████████ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=712cf9&center=true&vCenter=true&width=700&lines=%E2%9F%A8+ESTABLECER+CONEXI%C3%93N+%E2%9F%A9" />
-
-<br>
-
-[![Discord](https://img.shields.io/badge/Discord-JoXhu-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-JoXhup-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoXhup)
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=JoXhup&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL" />
-
-<br><br>
-
-<!-- ██████████████████████ FOOTER ÉPICO ██████████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d87,50:712cf9,100:00dcff&height=160&section=footer&fontSize=18&fontColor=ffffff&animation=fadeIn&text=JoXhu%20%E2%9A%A1%20ARQUITECTO%20SUPREMO&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0050,50:0d0221,100:0a0a0f&height=180&section=footer&text=JoXhu%20%2F%2F%20ARQUITECTO%20SUPREMO&fontSize=28&fontColor=c084fc&animation=twinkling&fontAlignY=55&stroke=5b21b6&strokeWidth=1" width="100%" />
 
 </div>
