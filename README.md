@@ -9,14 +9,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=3000&pause=500&color=7c3aed&center=true&vCenter=true&width=800&lines=%5B+SISTEMA+INICIADO+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+CARGANDO+ARSENAL+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+ARQUITECTO+EN+L%C3%8DNEA+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=3000&pause=500&color=7c3aed&center=true&vCenter=true&width=800&lines=%5B+SISTEMA+INICIADO+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+CARGANDO+ARSENAL+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+Coder+EN+L%C3%8DNEA+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" />
 
 <br>
 
-![](https://img.shields.io/badge/▮_ESTADO-OPERATIVO-c084fc?style=flat-square&labelColor=0a0010&color=7c3aed)
-![](https://img.shields.io/badge/▮_ROL-ARQUITECTO_SUPREMO-c084fc?style=flat-square&labelColor=0a0010&color=5b21b6)
-![](https://img.shields.io/badge/▮_MODO-BEAST_MODE-c084fc?style=flat-square&labelColor=0a0010&color=4c1d95)
-![](https://img.shields.io/badge/▮_BASE-LATINOAMÉRICA-c084fc?style=flat-square&labelColor=0a0010&color=3b0764)
+![](https://img.shields.io/badge/▮_OPERANDO-c084fc?style=flat-square&labelColor=0a0010&color=7c3aed)
+![](https://img.shields.io/badge/▮_GESTOR-DE-TI-c084fc?style=flat-square&labelColor=0a0010&color=5b21b6)
+![](https://img.shields.io/badge/▮_Luvity_MODE-c084fc?style=flat-square&labelColor=0a0010&color=4c1d95)
+![](https://img.shields.io/badge/▮_Sky-c084fc?style=flat-square&labelColor=0a0010&color=3b0764)
 
 <br>
 
@@ -54,9 +54,9 @@
 ```typescript
 // ── ENTITY PROFILE ──────────────────────────────────────────────
 const JoXhu = {
-  alias      : "Arquitecto Supremo",
+  alias      : "Dev Supremo",
   stack      : ["Bots", "APIs", "Full Stack", "Systems Design"],
-  filosofía  : "El código es arquitectura. La arquitectura es arte.",
+  filosofía  : "El código es estructura. el esfuerzo es arte.",
   modo       : "BEAST 🔥",
   disponible : true,  // ← freelance & colabs abiertas
 
@@ -67,7 +67,7 @@ const JoXhu = {
     infra     : ["Docker", "Cloudflare", "Linux"]
   },
 
-  aprendiendo : ["Edge Computing", "IA", "DevOps avanzado"],
+  aprendiendo : ["Edge Computing", "DevOps avanzado"],
   misión      : "Sistemas que no se rompen. Jamás."
 };
 ```
