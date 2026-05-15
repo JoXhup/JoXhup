@@ -5,7 +5,7 @@
 <!--                     HEADER CINEMATOGRÁFICO                -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0221,60:120038,100:1a0050&height=300&section=header&text=JoXhu&fontSize=130&animation=twinkling&fontColor=c084fc&desc=SYSTEM%20ARCHITECT%20%2F%2F%20CODE%20AS%20PHILOSOPHY&descSize=18&descAlignY=68&fontAlignY=45&stroke=7c3aed&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0221,60:120038,100:1a0050&height=300&section=header&text=JoXhu&fontSize=130&animation=twinkling&fontColor=c084fc&desc=SYSTEM%20DEV%20%2F%2F%20CODE%20AS%20PHILOSOPHY&descSize=18&descAlignY=68&fontAlignY=45&stroke=7c3aed&strokeWidth=2" width="100%" />
 
 <br>
 
@@ -198,6 +198,6 @@ const JoXhu = {
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0050,50:0d0221,100:0a0a0f&height=180&section=footer&text=JoXhu%20%2F%2F%20ARQUITECTO%20SUPREMO&fontSize=28&fontColor=c084fc&animation=twinkling&fontAlignY=55&stroke=5b21b6&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0050,50:0d0221,100:0a0a0f&height=180&section=footer&text=JoXhu%20%2F%2F%20TU%20OPCCION&fontSize=28&fontColor=c084fc&animation=twinkling&fontAlignY=55&stroke=5b21b6&strokeWidth=1" width="100%" />
 
 </div>
