@@ -1,203 +1,203 @@
-
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     HEADER CINEMATOGRÁFICO                -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0221,60:120038,100:1a0050&height=300&section=header&text=JoXhu&fontSize=130&animation=twinkling&fontColor=c084fc&desc=SYSTEM%20DEV%20%2F%2F%20CODE%20AS%20PHILOSOPHY&descSize=18&descAlignY=68&fontAlignY=45&stroke=7c3aed&strokeWidth=2" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:050505,30:0f172a,60:1e1b4b,100:7c3aed&text=JOXHU&fontSize=95&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=SYSTEMS%20ARCHITECT%20%2F%2F%20BACKEND%20ENGINEER&descSize=18&descAlignY=63"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=3000&pause=500&color=7c3aed&center=true&vCenter=true&width=800&lines=%5B+SISTEMA+INICIADO+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+CARGANDO+ARSENAL+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+Coder+EN+L%C3%8DNEA+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" />
-
-<br>
-
-![](https://img.shields.io/badge/▮_OPERANDO-c084fc?style=flat-square&labelColor=0a0010&color=7c3aed)
-![](https://img.shields.io/badge/▮_GESTOR-DE-TI-c084fc?style=flat-square&labelColor=0a0010&color=5b21b6)
-![](https://img.shields.io/badge/▮_Luvity_MODE-c084fc?style=flat-square&labelColor=0a0010&color=4c1d95)
-![](https://img.shields.io/badge/▮_Sky-c084fc?style=flat-square&labelColor=0a0010&color=3b0764)
-
-<br>
-
-```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-                              PROTOCOLO DE IDENTIFICACIÓN
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
-
-</div>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="200" valign="top">
-<br>
-
-<img src="https://github.com/JoXhup.png" width="140" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;LOADING+INFRASTRUCTURE+MODULES;API+SERVICES+ONLINE;DISCORD+ECOSYSTEMS+READY;STATUS%3A+OPERATIONAL"/>
 
 <br><br>
 
+![](https://img.shields.io/badge/STATUS-ONLINE-7c3aed?style=for-the-badge\&labelColor=050505)
+![](https://img.shields.io/badge/FOCUS-BACKEND%20SYSTEMS-c084fc?style=for-the-badge\&labelColor=050505)
+![](https://img.shields.io/badge/RUNTIME-NODE.JS%20%7C%20BUN-8b5cf6?style=for-the-badge\&labelColor=050505)
+
+</div>
+
+---
+
+# TERMINAL IDENTIFICATION
+
+```yaml
+Dev: JOXHU
+
+Role:
+  Systems Architect
+  Backend Engineer
+  Full Stack Developer
+
+Specialization:
+  - Discord Infrastructure
+  - API Engineering
+  - DevOps Automation
+  - Platform Architecture
+
+Mission:
+  Build scalable and reliable systems.
 ```
-╔════════════════╗
-║   J o X h u   ║
-╚════════════════╝
-```
 
-![](https://img.shields.io/github/followers/JoXhup?label=seguidores&style=social)
+---
 
-</td>
-<td width="30"></td>
-<td align="left" width="520" valign="top">
-
-<br>
+# OPERATOR PROFILE
 
 ```typescript
-// ── ENTITY PROFILE ──────────────────────────────────────────────
-const JoXhu = {
-  alias      : "Dev Supremo",
-  stack      : ["Bots", "APIs", "Full Stack", "Systems Design"],
-  filosofía  : "El código es estructura. el esfuerzo es arte.",
-  modo       : "BEAST 🔥",
-  disponible : true,  // ← freelance & colabs abiertas
+export const OPERATOR = {
+  codename: "JOXHU",
 
-  buildsWith  : {
-    langs     : ["TypeScript", "Python", "C++", "Java"],
-    frontend  : ["React", "Next.js", "Tailwind"],
-    backend   : ["Node.js", "Express", "Discord.js"],
-    infra     : ["Docker", "Cloudflare", "Linux"]
-  },
+  expertise: [
+    "Discord Bots",
+    "Server Architecture",
+    "API Development",
+    "Backend Engineering",
+    "DevOps",
+    "Web Applications"
+  ],
 
-  aprendiendo : ["Edge Computing", "DevOps avanzado"],
-  misión      : "Sistemas que no se rompen. Jamás."
+  stack: {
+    runtime: ["Node.js", "Bun"],
+
+    languages: [
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "C++"
+    ],
+
+    backend: [
+      "Express",
+      "REST APIs",
+      "Discord.js"
+    ],
+
+    frontend: [
+      "React",
+      "Next.js"
+    ],
+
+    infrastructure: [
+      "Linux",
+      "Docker",
+      "Cloudflare"
+    ]
+  }
 };
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<br>
+# CORE TECHNOLOGIES
 
 <div align="center">
 
-```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-                              MÉTRICAS DEL SISTEMA
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoXhup&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=c084fc&icon_color=7c3aed&text_color=9ca3af&bg_color=0a0010&border_radius=14&ring_color=7c3aed&include_all_commits=true&custom_title=RENDIMIENTO+EN+CAMPO" height="185" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoXhup&layout=compact&theme=transparent&hide_border=true&title_color=c084fc&text_color=9ca3af&bg_color=0a0010&border_radius=14&langs_count=8&custom_title=LENGUAJES+DOMINADOS" height="185" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=JoXhup&theme=transparent&hide_border=true&stroke=7c3aed&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=6b7280&background=0a0010&border_radius=14&dates=6b7280&sideNums=c084fc&currStreakNum=ffffff" width="680" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoXhup&theme=tokyo-night&hide_border=true&area=true&bg_color=0a0010&color=c084fc&line=7c3aed&point=a855f7&area_color=5b21b6" width="100%" />
-
-<br>
-
-```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-                              ARSENAL TECNOLÓGICO
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,express,react,nextjs,mysql,sqlite,cpp,docker,linux,git,github,vscode,cloudflare&theme=dark" />
 
 </div>
 
+---
+
+# ACTIVE OPERATIONS
+
+## DISCORD INFRASTRUCTURE
+
+```txt
+├── Discord Bots
+├── Large Scale Server Setup
+├── Moderation Systems
+├── Automation Pipelines
+└── Community Management Tools
+```
+
+## API ENGINEERING
+
+```txt
+├── REST API Development
+├── Authentication Systems
+├── Database Architecture
+├── Service Design
+└── Production Deployments
+```
+
+## DEVOPS & INFRASTRUCTURE
+
+```txt
+├── CI/CD Workflows
+├── Docker Deployments
+├── Linux Environments
+├── Monitoring
+└── Scalability Engineering
+```
+
+## WEB DEVELOPMENT
+
+```txt
+├── React
+├── Next.js
+├── TypeScript
+├── Express
+└── Full Stack Applications
+```
+
+---
+
+# SYSTEM TELEMETRY
+
 <div align="center">
 
-<table border="0">
-<tr>
-<td align="center" width="280">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JoXhup&show_icons=true&hide_border=true&theme=transparent&title_color=c084fc&icon_color=7c3aed&text_color=9ca3af"/>
 
-```
-[ LENGUAJES ]
-```
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,html,css&theme=dark&perline=4" />
-
-</td>
-<td align="center" width="280">
-
-```
-[ FRONTEND ]
-```
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma,vite&theme=dark&perline=4" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-```
-[ BACKEND ]
-```
-<img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,mongodb,mysql,sqlite&theme=dark&perline=4" />
-
-</td>
-<td align="center">
-
-```
-[ INFRA ]
-```
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,cloudflare,vscode&theme=dark&perline=4" />
-
-</td>
-</tr>
-</table>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoXhup&layout=compact&hide_border=true&theme=transparent&title_color=c084fc&text_color=9ca3af"/>
 
 <br>
 
-```
-[ DOMINIO TÉCNICO ]
+<img src="https://streak-stats.demolab.com?user=JoXhup&theme=transparent&hide_border=true&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc"/>
 
-  TypeScript  ██████████████████░░  90%
-  Python      █████████████████░░░  85%
-  Node.js     ████████████████████  98%
-  React       ████████████████░░░░  80%
-  Docker      █████████████░░░░░░░  65%
-  DevOps      ████████████░░░░░░░░  60%
+</div>
+
+---
+
+# PRINCIPLES
+
+```txt
+[01] Reliability > Complexity
+[02] Automation > Repetition
+[03] Scalability > Short-Term Solutions
+[04] Architecture Before Implementation
 ```
+
+---
+
+# CURRENT FOCUS
+
+```txt
+> Discord Ecosystems
+
+> High Performance APIs
+
+> TypeScript Applications
+
+> DevOps Automation
+
+> Platform Engineering
+```
+
+---
+
+# COMMUNICATION
+
+```txt
+DISCORD CONTACT : xep1xx
+
+AVAILABLE FOR COLLABORATION
+```
+
+<div align="center">
 
 <br>
 
-```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-                              SALÓN DE LA GLORIA
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoXhup&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=6" width="100%" />
-
-<br>
-
-```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-                              FILOSOFÍA DE SISTEMA
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=4000&pause=2000&color=7c3aed&center=true&vCenter=true&width=760&lines=%22El+mejor+c%C3%B3digo+es+el+que+nunca+necesita+explicaci%C3%B3n.%22;%22La+arquitectura+no+es+estructura+%E2%80%94+es+filosof%C3%ADa.%22;%22No+escribo+c%C3%B3digo.+Construyo+infraestructura+del+futuro.%22;%22Cada+bug+eliminado+es+una+lecci%C3%B3n+grabada+en+silicio.%22;%22Domino+las+variables+para+definir+las+constantes.%22" />
-
-<br>
-
-```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-                              ESTABLECER CONEXIÓN
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
-
-[![Discord](https://img.shields.io/badge/DISCORD-JoXhu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0010)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-JoXhup-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0010)](https://github.com/JoXhup)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=JoXhup&color=7c3aed&style=flat-square&label=VISITAS+AL+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=JoXhup&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0050,50:0d0221,100:0a0a0f&height=180&section=footer&text=JoXhu%20%2F%2F%20TU%20OPCCION&fontSize=28&fontColor=c084fc&animation=twinkling&fontAlignY=55&stroke=5b21b6&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&section=footer&color=0:1e1b4b,50:0f172a,100:050505"/>
 
 </div>
